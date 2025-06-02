@@ -5,6 +5,8 @@ Developers:
 Napoles, Jerald C.
 Siazon, Gerald V.
 
+Video Output Link: https://streamable.com/y58ttu?fbclid=IwY2xjawKqE91leHRuA2FlbQIxMABicmlkETFTdWpSbmcxNHBxWEl6aW5VAR59OW4lB0QfFvEXnS6VczgrV09UzhGASe5srzqeBRZxIIeC6PfKNdGGHUvfcg_aem_xEeQLOw9gr4ao9NAKoeZTA
+
 BSCS 3-1
 
 # NapZon E-commerce Platform Documentation
