@@ -3,7 +3,7 @@
 
 Developers:
 Napoles, Jerald C.
-Siazo, Gerald V.
+Siazon, Gerald V.
 
 BSCS 3-1
 
