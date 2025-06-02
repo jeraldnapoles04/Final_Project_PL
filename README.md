@@ -1,4 +1,12 @@
 ![alt text](https://github.com/jeraldnapoles04/Final_Project_PL/blob/master/Final/assets/NapZon_Logo.png?raw=true)
+
+
+Developers:
+Napoles, Jerald C.
+Siazo, Gerald V.
+
+BSCS 3-1
+
 # NapZon E-commerce Platform Documentation
 
 1. Project Overview
